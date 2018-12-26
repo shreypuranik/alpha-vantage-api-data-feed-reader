@@ -1,0 +1,3 @@
+class Companies:
+    companies = [
+    ]
